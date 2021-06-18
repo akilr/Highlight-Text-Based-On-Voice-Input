@@ -73,6 +73,7 @@ wwv_flow_api.create_plugin(
 ,p_substitute_attributes=>true
 ,p_subscribe_plugin_settings=>true
 ,p_version_identifier=>'1.0'
+,p_about_url=>'https://github.com/akilr/Highlight-Text-Based-On-Voice-Input'
 ,p_files_version=>4
 );
 wwv_flow_api.create_plugin_attribute(
