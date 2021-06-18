@@ -1,6 +1,6 @@
 <h1>Highlight Text Based On Voice Input - Oracle APEX Dynamic Action Plugin</h1>
 
-Plug-in for highlighting a text based on the voice input.<br>
+Plug-in for highlighting text based on the voice input.<br>
 All the langauges supported by google can be used.<br>
 <b>Google supported languages:</b> https://support.google.com/googleplay/android-developer/table/4419860?hl=en
 
