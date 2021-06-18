@@ -2,7 +2,7 @@
 
 Plug-in for highlighting text based on the voice input.<br>
 All the langauges supported by google can be used.<br>
-Click <span><a href="https://support.google.com/googleplay/android-developer/table/4419860?hl=en target="_blank"><b>here</b></a></span> to see the Google supported languages.
+<b>Google supported languages:</b> https://support.google.com/googleplay/android-developer/table/4419860?hl=en.
 
 <h2>Installation</h2>
 Import plugin file "dynamic_action_highlight_text_based_on_voice_input.sql" from Source directory into your application.
