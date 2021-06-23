@@ -17,9 +17,12 @@ Import plugin file "dynamic_action_highlight_text_based_on_voice_input.sql" from
         <li><b>Language Item:</b> Choose the Page Item that stores the Language Name as Display Value and Language Code as Return Value.</li>
         <li><b>Highlight Color:</b> Choose the Color to highlight the text to be searched.</li>
         <li><b>Voice Input Text Storage Item:</b> Choose the Page Item to store the voice input text.</li>
-        <li><b>Button Static ID:</b> Provide the Static ID of the clicked button.</li>
+        <li><b>Button Static ID:</b> Provide the Static ID of the clicked button.(Button that is clicked to start the recording)</li>
      </ul>
- <br>
   
 <h2>Demo</h2>
 https://apex.oracle.com/pls/apex/workspace_akil/r/demo/highlight-text-based-on-voice
+
+<h2>Disclaimer</h2>
+This plug-in is not supported on all browsers. Please refer the below link for more information.<br>
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition#browser_compatibility
