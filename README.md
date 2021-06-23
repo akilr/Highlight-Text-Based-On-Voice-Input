@@ -2,7 +2,7 @@
 
 Plug-in for highlighting text based on the voice input.<br>
 All the langauges supported by google can be used.<br>
-<b>Google supported languages:</b> https://support.google.com/googleplay/android-developer/table/4419860?hl=en.
+<b>Google supported languages:</b> https://support.google.com/googleplay/android-developer/table/4419860?hl=en.<br>
 <b>Google supported languages JSON: </b>https://apex.oracle.com/pls/apex/workspace_akil/lang/googlelang/
 
 <h2>Installation</h2>
